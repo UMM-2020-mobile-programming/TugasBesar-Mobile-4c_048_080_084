@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Zahlen</string>
+    <string name="slogan">Make Your Holiday Fun</string>
+    <string name="slogan2">Discover\nThe Beauty\n Of Holiday</string>
+    <string name="button_sign_in">Sign In</string>
+    <string name="button_new_account">New Account</string>
+    <string name="username_laber">Username</string>
+    <string name="password_label">Password</string>
+    <string name="register_label">Register</string>>
+    <string name="EMAIL">Email</string>>
+    <string name="Continue">Continue</string>
+    <string name="Bio">Bio</string>
+    <string name="Explore_Now">Explore Now</string>
+    <string name="money">230</string>
+    <string name="moneyku">234</string>
+    <string name="Pay">PAY NOW</string>
+    <string name="View_ticket">VIEW TICKET</string>
+    <string name="My_dasbort">MY DASHBORD</string>
+    <string name="Total_ticket">3</string>
+    <string name="Date">Date</string>
+    <string name="Time">Time</string>
+    <string name="Information">Information</string>
+    <string name="refund_now">REFUND NOW</string>
+    <string name="myname">My Name</string>
+    <string name="myskill">My Skill</string>
+    <string name="nama">Nama</string>
+    <string name="nama_wisata">Candi Borobudur</string>
+    <string name = "lokasi">Yogyakarta, Central Java</string>
+
+
+
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.zahlen">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".EditProfile"></activity>
+        <activity android:name=".MyProfile" />
+        <activity android:name=".detail_ticket" />
+        <activity android:name=".Ticket_succes" />
+        <activity android:name=".Ticket_checkout_failed" />
+        <activity android:name=".Ticket_checkout" />
+        <activity android:name=".detail_ticket6" />
+        <activity android:name=".detail_ticket5" />
+        <activity android:name=".detail_ticket4" />
+        <activity android:name=".detail_ticket3" />
+        <activity android:name=".detail_ticket2" />
+        <activity android:name=".detail_ticket1" />
+        <activity android:name=".Home" />
+        <activity android:name=".registersucces" />
+        <activity android:name=".Register2" />
+        <activity android:name=".regisster" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".Sign_in" />
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
